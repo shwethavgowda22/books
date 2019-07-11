@@ -1,6 +1,6 @@
-#include <stdio.h> 
+#include<stdio.h>
   
-int main() 
+void bigg3() 
 { 
     int A, B, C; 
   
@@ -16,7 +16,7 @@ int main()
     if (C >= A && C >= B) 
         printf("%d is the largest number.", C); 
   
-    return 0; 
+ 
 } 
 
 
