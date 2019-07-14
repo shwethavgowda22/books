@@ -2,7 +2,7 @@
   
 void bigg3() 
 { 
-    int A, B, C; 
+    int A, B, C;
   
     printf("Enter the numbers A, B and C: "); 
     scanf("%d %d %d", &A, &B, &C); 
